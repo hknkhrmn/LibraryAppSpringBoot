@@ -86,5 +86,5 @@ spring.datasource.password
 
 ## Lisans
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/)..
 
